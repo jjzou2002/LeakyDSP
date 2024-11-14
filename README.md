@@ -3,7 +3,7 @@
 This repository contains the experiments of evaluation and case studies discussed in the paper :
 * "LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations".
 
-LeakyDSP is a novel on-chip sensor that exploits Digital Signal Processing Blocks(DSP) to craft a stealthy power side channel. We mount different power side channel attacks via LeakyDSP successfully.
+LeakyDSP is a novel on-chip sensor that exploits Digital Signal Processing(DSP) Blocks to craft a stealthy power side channel. We mount different power side channel attacks via LeakyDSP successfully.
 
 ## Tested Setup
 
