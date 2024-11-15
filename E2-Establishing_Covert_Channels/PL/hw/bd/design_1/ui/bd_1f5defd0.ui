@@ -1,0 +1,42 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.19  2019-03-26 bk=1.5019 VDI=41 GEI=35 GUI=JA:9.0 TLS
+#  -string -flagsOSRD
+preplace inst zynq_ultra_ps_e_0 -pg 1 -lvl 1 -x 340 -y 420 -defaultsOSRD
+preplace inst power_virus_bank_0 -pg 1 -lvl 4 -x 1520 -y 690 -defaultsOSRD
+preplace inst vio_0 -pg 1 -lvl 5 -x 1760 -y 630 -defaultsOSRD
+preplace inst DSPSensor_0 -pg 1 -lvl 4 -x 1520 -y 320 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 3 -x 1210 -y 80 -defaultsOSRD
+preplace inst axi_gpio_1 -pg 1 -lvl 3 -x 1210 -y 220 -defaultsOSRD
+preplace inst axi_gpio_2 -pg 1 -lvl 3 -x 1210 -y 410 -defaultsOSRD
+preplace inst xlslice_0 -pg 1 -lvl 5 -x 1760 -y 320 -defaultsOSRD
+preplace inst axi_gpio_3 -pg 1 -lvl 3 -x 1210 -y 550 -defaultsOSRD
+preplace inst axi_gpio_4 -pg 1 -lvl 3 -x 1210 -y 690 -defaultsOSRD
+preplace inst ps8_0_axi_periph -pg 1 -lvl 2 -x 850 -y 510 -defaultsOSRD
+preplace inst rst_ps8_0_299M -pg 1 -lvl 1 -x 340 -y 640 -defaultsOSRD
+preplace netloc zynq_ultra_ps_e_0_pl_clk0 1 0 4 20 530 690 290 1040 300 1360
+preplace netloc zynq_ultra_ps_e_0_pl_clk3 1 1 4 680J 300 1010J 330 1360 620 NJ
+preplace netloc power_virus_bank_0_z 1 4 1 1650 640n
+preplace netloc zynq_ultra_ps_e_0_pl_clk1 1 1 3 660 270 1060J 310 NJ
+preplace netloc zynq_ultra_ps_e_0_pl_clk2 1 1 3 670 280 1030J 320 1370J
+preplace netloc axi_gpio_0_gpio_io_o 1 3 1 1390 90n
+preplace netloc axi_gpio_1_gpio_io_o 1 3 1 1380 230n
+preplace netloc axi_gpio_2_gpio_io_o 1 3 1 1380 370n
+preplace netloc DSPSensor_0_P 1 4 1 NJ 320
+preplace netloc xlslice_0_Dout 1 3 3 NJ 560 NJ 560 1870
+preplace netloc axi_gpio_4_gpio_io_o 1 3 1 N 700
+preplace netloc zynq_ultra_ps_e_0_pl_resetn0 1 0 2 30 540 650
+preplace netloc rst_ps8_0_299M_peripheral_aresetn1 1 1 2 700 310 1050
+preplace netloc ps8_0_axi_periph_M03_AXI 1 2 1 N 530
+preplace netloc ps8_0_axi_periph_M01_AXI 1 2 1 1020 200n
+preplace netloc ps8_0_axi_periph_M00_AXI 1 2 1 1000 60n
+preplace netloc ps8_0_axi_periph_M02_AXI 1 2 1 1060 390n
+preplace netloc zynq_ultra_ps_e_0_M_AXI_HPM0_LPD 1 1 1 N 370
+preplace netloc ps8_0_axi_periph_M04_AXI 1 2 1 1010 550n
+levelinfo -pg 1 0 340 850 1210 1520 1760 1890
+pagesize -pg 1 -db -bbox -sgen 0 0 1890 770
+"
+}
+{
+   "da_axi4_cnt":"17"
+}
