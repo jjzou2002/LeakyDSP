@@ -33,7 +33,6 @@ To perform the characterization and AES key extraction attack, we use a Basys3 b
 
 This repository contains the following materials:
 
-- `E1-Characterizing_LeakyDSP`: This directory contains the hardware description language code for implementing TDC and LeakyDSP on the Basys3 FPGA, as well as the *power virus circuit* code used to create a significant amount of circuit switch activity.
-
+* `E1-Characterizing_LeakyDSP`: This directory contains the hardware description language code for implementing TDC and LeakyDSP on the Basys3 FPGA, as well as the *power virus circuit* code used to create a significant amount of circuit switch activity.
 * `E2-Extracting_AES_Keys`: This directory contains the hardware description language code for implementing LeakyDSP on the Basys3 FPGA. By modifying the code from https://github.com/mirjanastojilovic/RDS/tree/main/basys3, LeakyDSP has been used to extract AES full keys.
 * `E3-Establishing_Covert_Channels`: This project features a hardware design that incorporates LeakyDSP, along with code for sending and receiving data through covert channels, as well as code for calculating the bit error rate (BER) and transmission rate (TR).
