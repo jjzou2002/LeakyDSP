@@ -2,9 +2,6 @@
 // --------------------------------------------------------------------------------
 // Tool Version: Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
 // Date        : Tue Nov  5 10:53:12 2024
-// Host        : zjj-virtual-machine running 64-bit unknown
-// Command     : write_verilog -force -mode funcsim
-//               /home/zjj/work/DSPSensor/ZynqUltra/3eg.srcs/sources_1/bd/design_1/ip/design_1_axi_gpio_2_0/design_1_axi_gpio_2_0_sim_netlist.v
 // Design      : design_1_axi_gpio_2_0
 // Purpose     : This verilog netlist is a functional simulation representation of the design and should not be modified
 //               or synthesized. This netlist cannot be used for SDF annotated simulation.
