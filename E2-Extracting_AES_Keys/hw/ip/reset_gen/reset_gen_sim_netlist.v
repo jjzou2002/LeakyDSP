@@ -4,7 +4,6 @@
 // Date        : Tue Mar 16 12:55:17 2021
 // Host        : glamocan-XPS-15-7590 running 64-bit Ubuntu 18.04.5 LTS
 // Command     : write_verilog -force -mode funcsim
-//               /home/glamocan/work/teaching/semester_projects/ap_20/code/vivado/t_test_uart_v2/t_test_uart_v2.srcs/sources_1/ip/reset_gen/reset_gen_sim_netlist.v
 // Design      : reset_gen
 // Purpose     : This verilog netlist is a functional simulation representation of the design and should not be modified
 //               or synthesized. This netlist cannot be used for SDF annotated simulation.

@@ -5,7 +5,6 @@
  Version     : Version 1.0
  Created     : 
  Last update : SEP/25/2007
- Desgined by : Akashi Satoh
  
  
  Copyright (C) 2007 AIST and Tohoku Univ.
@@ -342,7 +341,7 @@ module AES_Comp_EncCore(di, ki, Rrg, do, ko);
       10'bxx1xxxxxxx: rcon = 8'h80;
       10'bx1xxxxxxxx: rcon = 8'h1b;
       10'b1xxxxxxxxx: rcon = 8'h36;
-      default       : rcon = 8'h00; // Modified by T.Katashita.(Sep 1, 2008)
+      default       : rcon = 8'h00; 
     endcase
   endfunction
 
@@ -402,7 +401,7 @@ module AES_Comp_DecCore(di, ki, Rrg, Kgen, do, ko);
       10'bxx1xxxxxxx: rcon = 8'h80;
       10'bx1xxxxxxxx: rcon = 8'h1b;
       10'b1xxxxxxxxx: rcon = 8'h36;
-      default       : rcon = 8'h00; // Modified by T.Katashita.(Sep 1, 2008)
+      default       : rcon = 8'h00; 
     endcase
   endfunction
 

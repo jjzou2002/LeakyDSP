@@ -1,7 +1,6 @@
 /*
  Xilinx SystemC/TLM-2.0 ZynqMP Wrapper.
 
- Written by Edgar E. Iglesias <edgar.iglesias@xilinx.com>
 
  Copyright (c) 2016, Xilinx Inc.
  All rights reserved.

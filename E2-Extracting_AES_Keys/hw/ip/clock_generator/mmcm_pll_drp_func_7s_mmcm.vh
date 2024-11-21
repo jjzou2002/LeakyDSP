@@ -1,7 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
 //    
-//    Company:          Xilinx
-//    Engineer:         Jim Tatsukawa, Karl Kurbjun and Carl Ribbing
 //    Date:             7/30/2014
 //    Design Name:      MMCME2 DRP
 //    Module Name:      mmcme2_drp_func.h

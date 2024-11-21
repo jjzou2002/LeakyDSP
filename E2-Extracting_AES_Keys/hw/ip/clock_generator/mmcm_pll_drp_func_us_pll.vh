@@ -1,7 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
 //    
-//    Company:          Xilinx
-//    Engineer:         Jim Tatsukawa
 //    Date:             6/15/2015
 //    Design Name:      PLLE3 DRP
 //    Module Name:      plle3_drp_func.h

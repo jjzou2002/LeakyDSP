@@ -55,14 +55,6 @@
 //              --zynq_ultra_ps_e_si_v3_3_zynq_ultra_ps_e_si.v
 //                    --PS8.v - Unisim component
 //-----------------------------------------------------------------------------
-// Author:      mishra
-//
-// History:
-//
-//mishra      11/03/14      -- First version
-// ~~~~~~
-// Created the first version v1.00.a
-// ^^^^^^
 //------------------------------------------------------------------------------
 
 (*PSS_POWER= "<BLOCKTYPE name={PS8}> <PS8><FPD><PROCESSSORS><PROCESSOR name={Cortex A-53} numCores={4} L2Cache={Enable} clockFreq={1066.656006} load={0.5}/><PROCESSOR name={GPU Mali-400 MP} numCores={2} clockFreq={599.994019} load={0.5} /></PROCESSSORS>\

@@ -1,7 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
 //    
-//    Company:          Xilinx
-//    Engineer:         Jim Tatsukawa. Updated by Ralf Krueger
 //    Date:             7/30/2014
 //    Design Name:      MMCME4 DRP
 //    Module Name:      mmcme4_drp_func.h

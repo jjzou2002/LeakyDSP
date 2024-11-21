@@ -4,7 +4,6 @@
 -- Date        : Sat Dec  2 16:13:07 2023
 -- Host        : LAPTOP-PKPET6QB running 64-bit major release  (build 9200)
 -- Command     : write_vhdl -force -mode funcsim
---               d:/FPGA_Proj/RMUX4/RMUX4_sensor/RMUX4_sensor.srcs/sources_1/ip/fifo_generator_0/fifo_generator_0_sim_netlist.vhdl
 -- Design      : fifo_generator_0
 -- Purpose     : This VHDL netlist is a functional simulation representation of the design and should not be modified or
 --               synthesized. This netlist cannot be used for SDF annotated simulation.

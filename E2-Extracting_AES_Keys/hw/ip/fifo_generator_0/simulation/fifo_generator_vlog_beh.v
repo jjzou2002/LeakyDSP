@@ -56,7 +56,6 @@
  *
  * Filename: fifo_generator_vlog_beh.v
  *
- * Author     : Xilinx
  *
  *******************************************************************************
  * Structure:

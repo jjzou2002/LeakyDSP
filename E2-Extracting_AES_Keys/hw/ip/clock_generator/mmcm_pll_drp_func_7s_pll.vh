@@ -1,7 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
 //    
-//    Company:          Xilinx
-//    Engineer:         Jim Tatsukawa, Karl Kurbjun and Carl Ribbing
 //    Date:             7/30/2014
 //    Design Name:      PLLE2 DRP
 //    Module Name:      plle2_drp_func.h

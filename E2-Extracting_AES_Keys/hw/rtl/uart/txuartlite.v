@@ -20,8 +20,6 @@
 //	them set until the busy line is low.  Then I move on to the next piece
 //	of data.)
 //
-// Creator:	Dan Gisselquist, Ph.D.
-//		Gisselquist Technology, LLC
 //
 ////////////////////////////////////////////////////////////////////////////////
 //

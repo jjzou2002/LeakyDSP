@@ -4,7 +4,6 @@
 // Date        : Sat Dec  2 16:13:07 2023
 // Host        : LAPTOP-PKPET6QB running 64-bit major release  (build 9200)
 // Command     : write_verilog -force -mode synth_stub
-//               d:/FPGA_Proj/RMUX4/RMUX4_sensor/RMUX4_sensor.srcs/sources_1/ip/fifo_generator_0/fifo_generator_0_stub.v
 // Design      : fifo_generator_0
 // Purpose     : Stub declaration of top-level module interface
 // Device      : xc7a35tcpg236-1

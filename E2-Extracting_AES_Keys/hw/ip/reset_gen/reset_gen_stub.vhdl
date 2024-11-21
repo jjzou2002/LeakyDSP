@@ -4,7 +4,6 @@
 -- Date        : Tue Mar 16 12:55:17 2021
 -- Host        : glamocan-XPS-15-7590 running 64-bit Ubuntu 18.04.5 LTS
 -- Command     : write_vhdl -force -mode synth_stub
---               /home/glamocan/work/teaching/semester_projects/ap_20/code/vivado/t_test_uart_v2/t_test_uart_v2.srcs/sources_1/ip/reset_gen/reset_gen_stub.vhdl
 -- Design      : reset_gen
 -- Purpose     : Stub declaration of top-level module interface
 -- Device      : xc7a35tcpg236-1

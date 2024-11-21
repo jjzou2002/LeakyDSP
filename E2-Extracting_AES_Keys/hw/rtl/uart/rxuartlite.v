@@ -16,8 +16,6 @@
 //	not handle the break, parity, or frame error conditions.
 //
 //
-// Creator:	Dan Gisselquist, Ph.D.
-//		Gisselquist Technology, LLC
 //
 ////////////////////////////////////////////////////////////////////////////////
 // }}}

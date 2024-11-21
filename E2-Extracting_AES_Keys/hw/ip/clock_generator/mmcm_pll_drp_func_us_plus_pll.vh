@@ -1,7 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
 //    
-//    Company:          Xilinx
-//    Engineer:         Jim Tatsukawa, Ralf Krueger, updated for Ultrascale+ 
 //    Date:             6/15/2015
 //    Design Name:      PLLE4 DRP
 //    Module Name:      plle4_drp_func.h
