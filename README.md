@@ -1,15 +1,15 @@
 # LeakyDSP
 
-This repository contains the experiments of evaluation and case studies discussed in the paper :
+This anonymous repository contains the experiments of characterization and case studies discussed in the paper:
 * "LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs".
 
-LeakyDSP is a novel on-chip sensor that exploits Digital Signal Processing (DSP) blocks to craft a stealthy power side channel. We mount different power side channel attacks via LeakyDSP successfully.
+LeakyDSP is a novel on-chip sensor that exploits Digital Signal Processing (DSP) blocks to sense voltage fluctuations. 
 
 ## Tested Setup
 
 ### Software dependencies
 
-To run the experiments and proof-of-concepts, the following prerequisites need to be fulfilled:
+To run the experiments, the following prerequisites need to be fulfilled:
 
 * Linux installation
   * Build tools (gcc, make)
@@ -33,6 +33,6 @@ To perform the characterization and AES key extraction attack, we use a Basys3 b
 
 This repository contains the following materials:
 
-* `E1-Characterizing_LeakyDSP`: This directory contains the hardware description language code for implementing TDC and LeakyDSP on the Basys3 FPGA, as well as the *power virus circuit* code used to create a significant amount of circuit switch activity.
-* `E2-Extracting_AES_Keys`: This directory contains the hardware description language code for implementing LeakyDSP on the Basys3 FPGA. By modifying the code from https://github.com/mirjanastojilovic/RDS/tree/main/basys3, LeakyDSP has been used to extract AES full keys.
-* `E3-Establishing_Covert_Channels`: This project features a hardware design that incorporates LeakyDSP, along with code for sending and receiving data through covert channels, as well as code for calculating the bit error rate (BER) and transmission rate (TR).
+* `E1-Characterizing_LeakyDSP`: contains the hardware description language code for implementing TDC and LeakyDSP on the Basys3 FPGA, as well as the *power virus circuit* code used to create a significant amount of circuit switch activity.
+* `E2-Extracting_AES_Keys`: contains the hardware description language code for implementing LeakyDSP on the Basys3 FPGA. By modifying the code from https://github.com/mirjanastojilovic/RDS/tree/main/basys3, LeakyDSP has been used to extract AES full keys.
+* `E3-Establishing_Covert_Channels`: contains a hardware design that incorporates LeakyDSP, code for sending and receiving data through covert channels, and code for calculating the bit error rate (BER) and transmission rate (TR).
