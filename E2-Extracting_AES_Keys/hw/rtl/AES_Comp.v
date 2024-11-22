@@ -7,7 +7,7 @@
  Last update : SEP/25/2007
  
  
- Copyright (C) 2007 AIST and Tohoku Univ.
+ Copyright (C) 2007 
  
  By using this code, you agree to the following terms and conditions.
  
