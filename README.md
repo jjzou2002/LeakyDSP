@@ -1,6 +1,6 @@
 # LeakyDSP
 
-This anonymous repository contains the experiments of characterization and case studies discussed in the paper:
+This repository contains the experiments of characterization and case studies discussed in the paper:
 * "LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs".
 
 LeakyDSP is a novel on-chip sensor that exploits Digital Signal Processing (DSP) blocks to sense voltage fluctuations. 
